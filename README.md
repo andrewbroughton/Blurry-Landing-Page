@@ -1,2 +1,2 @@
-# Blurry-Landing-Page
-Blurry landing page with a fading countdown
+# Blurry-Loading-Page
+Blurry loading page with a fading countdown
